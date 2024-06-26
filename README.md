@@ -2,11 +2,6 @@
 
 **Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.**
 
-Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to 3 to 5 per category to ensure you get the most valuable and relevant resources out there. Also, the whole point is to help you avoid getting overwhelmed with too many choices
-
-**How is curation done?** Curation is based on thorough research, community contributions and my years of experience as a Data Scientist.
-**Are all resource free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
-
 # 📚 Learning Resources
 
 ## Youtube Channels
@@ -62,6 +57,11 @@ Some great data people you should follow
 - [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/)
 - [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/)
 
+## About
+Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to 3 to 5 per category to ensure you get the most valuable and relevant resources out there. Also, the whole point is to help you avoid getting overwhelmed with too many choices
+
+**How is curation done?** Curation is based on thorough research, community contributions and my years of experience as a Data Scientist.
+**Are all resource free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
 
 ## Contributions
 
