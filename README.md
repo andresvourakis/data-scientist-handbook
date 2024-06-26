@@ -32,13 +32,13 @@
 - [Boris Meinardus](https://www.youtube.com/@borismeinardus): Tutorials and insights on AI and data science projects, with a focus on practical applications.
 
 ## Blogs
-- [Towards Data Science (Blog)](https://towardsdatascience.com/): A Medium publication that publishes well-written, informative articles on various data science topics.
-- [freeCodeCamp.org (Blog)](https://www.freecodecamp.org/news/tag/data-science/): Articles and tutorials covering a wide range of data science concepts, from basic to advanced.
+- [Towards Data Science](https://towardsdatascience.com/): A Medium publication that publishes well-written, informative articles on various data science topics.
+- [freeCodeCamp.org](https://www.freecodecamp.org/news/tag/data-science/): Articles and tutorials covering a wide range of data science concepts, from basic to advanced.
 
 ## Newsletters
-- [TLDR AI (Newsletter)](https://tldr.tech/ai): A daily newsletter that covers the latest developments in AI, providing concise and insightful updates.
-- [Data Elixir (Newsletter)](https://dataelixir.com/): A weekly newsletter that curates the best data science news, resources, and tutorials from around the web.
-- [Data Science Weekly (Newsletter)](https://substack.com/@datascienceweekly): A newsletter that provides a weekly roundup of data science news, articles, and tutorials.
+- [TLDR AI](https://tldr.tech/ai): A daily newsletter that covers the latest developments in AI, providing concise and insightful updates.
+- [Data Elixir](https://dataelixir.com/): A weekly newsletter that curates the best data science news, resources, and tutorials from around the web.
+- [Data Science Weekly](https://substack.com/@datascienceweekly): A newsletter that provides a weekly roundup of data science news, articles, and tutorials.
 
 ## Podcasts
 - [The TWIML AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7): In-depth interviews with AI and machine learning experts, covering cutting-edge topics and industry trends.
