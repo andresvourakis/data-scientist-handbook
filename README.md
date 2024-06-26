@@ -5,6 +5,7 @@
 # Table of Contents
 1. [Learning Resources](#-learning-resources)
 2. [Breaking into the job market](#-breaking-into-the-job-market)
+3. [Connect](#-connect)
 
 # 📚 Learning Resources
 
@@ -56,7 +57,7 @@ Find great people to collaborate and exchange ideas
 - [Data Science (Reddit)](https://www.reddit.com/r/datascience/)
 - [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/)
 
-## Influencers
+## Content creators
 Some great data people you should follow
 - [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/)
 - [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/)
