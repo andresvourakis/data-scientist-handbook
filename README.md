@@ -89,15 +89,9 @@ Some great data people you should follow
 - [Karun Tankachan](https://www.linkedin.com/in/karunt/)
 
 # About
-Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to 3 or a maximum of 5 per category to ensure you get the most valuable and relevant resources out there. Also, the whole point is to help you avoid getting overwhelmed with too many choices.
+Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point is to help you avoid getting overwhelmed with too many choices.
 
+## FAQs
 **How is curation done?** Curation is based on thorough research, community contributions, and my years of experience as a Data Scientist.
 **Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
 
-# Contributions
-
-We welcome contributions from the community! If you have resources, guides, or tips to share, please create a pull request or open an issue.
-
-# License
-
-This project is licensed under the MIT License.
