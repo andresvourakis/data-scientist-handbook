@@ -1,36 +1,62 @@
-# Data Scientist Handbook
+# Aspiring Data Scientist Handbook
 
-Welcome to the Data Scientist Handbook! This repository is designed to help aspiring data scientists learn, grow, and break into the field of data science. Explore the sections below to find valuable resources and guides tailored for beginners.
+This repository is designed to help aspiring data scientists learn, grow, and break into the field of data science. Consider this a directory to help you find valuable resources and guides tailored for beginners.
 
-# Learning Resources
+# Table of Contents
+1. [Learning Resources](#learning-resources)
+2. [Python for Data Science](#python-for-data-science)
+3. [Data Analysis and Visualization](#data-analysis-and-visualization)
+4. [Machine Learning Basics](#machine-learning-basics)
+5. [Deep Learning Introduction](#deep-learning-introduction)
+6. [Practical Projects and Case Studies](#practical-projects-and-case-studies)
+7. [Interview Preparation Tips](#interview-preparation-tips)
+8. [Further Learning and Services](#further-learning-and-services)
+
+# 📚 Learning Resources
 
 ## Blogs & Newsletters
 - [Towards Data Science]()
 - [Free Code Camp]()
 
 ## Youtube Channels
+### AI & Machine Learning 
+- [Two Minute Papers]()
+- [This Week in Machine Learning]()
 
-## Break into Data
+### Programming
+- [Two Minute Papers]()
+- [This Week in Machine Learning]()
 
-- [Job Search Strategies](./break_into_data/job_search_strategies.md)
-- [Networking Tips](./break_into_data/networking_tips.md)
-- [Portfolio Projects](./break_into_data/portfolio_projects.md)
+## Podcasts
+- [Break Into Data (Discord)]()
+- [Data Science (Reddit)]()
 
-## Resources
+## Books
+- [Towards Data Science]()
+- [Free Code Camp]()
 
-- [Books, Blogs, and Podcasts](./resources/books_blogs_podcasts.md)
-- [Online Communities and Forums](./resources/online_communities_forums.md)
-- [Practice Datasets](./resources/practice_datasets.md)
+# 💼 Breaking into the Job Market
 
-## Career Advice
+## Career Guidance
+- [Break Into Data (Discord)]()
+- [Data Science (Reddit)]()
 
-- [Mentorship and Guidance](./career_advice/mentorship_guidance.md)
-- [Continuous Learning](./career_advice/continuous_learning.md)
+## The Data Interview
+- [Break Into Data (Discord)]()
+- [Data Science (Reddit)]()
 
-# Communities
+## Portfolio
+- [Break Into Data (Discord)]()
+- [Data Science (Reddit)]()
+
+# 🤝 Connect
 
 ## Communities
 
+- [Break Into Data (Discord)]()
+- [Data Science (Reddit)]()
+
+## Influencers
 - [Break Into Data (Discord)]()
 - [Data Science (Reddit)]()
 
