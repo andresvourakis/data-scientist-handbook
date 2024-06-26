@@ -55,6 +55,8 @@ Find great people to collaborate and exchange ideas
 ## Influencers
 Some great data people you should follow
 - [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/)
+- [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/)
+- [Dawn Choo](https://www.linkedin.com/in/data-dawn/)
 - [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/)
 
 ## About
