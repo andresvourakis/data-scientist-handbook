@@ -40,7 +40,7 @@ Practicing for the coding part of the technical interview
 - [Hacker Rank (Python/SQL)](https://www.hackerrank.com/)
 
 ## Portfolio
-- [Break Into Data (Discord)](https://discord.gg/Uyv7JZ3b)
+- [datascienceportfol.io](datascienceportfol.io)
 - [Data Science (Reddit)](https://www.reddit.com/r/datascience/)
 - [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/)
 
