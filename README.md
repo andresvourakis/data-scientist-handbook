@@ -2,6 +2,9 @@
 
 **Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.** *More information about this project can be found [here](#about)*
 
+# Table of Contents
+1. [Learning Resources](#-learning-resources)
+
 # 📚 Learning Resources
 
 ## Youtube Channels
@@ -64,10 +67,6 @@ Even though there are hundreds of resources out there (too many to keep track of
 
 **How is curation done?** Curation is based on thorough research, community contributions and my years of experience as a Data Scientist.
 **Are all resource free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
-
-## Contributions
-
-We welcome contributions from the community! If you have resources, guides, or tips to share, please create a pull request or open an issue.
 
 ## License
 
