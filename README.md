@@ -1,16 +1,12 @@
 # Aspiring Data Scientist Handbook
 
-**This repository is designed to help aspiring data scientists learn, grow, and break into the field of data science.**
+**Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.**
 
-This curated list of resources is tailored for beginners. Even though there are hundreds of resources out there, I will try to limit them to 3 to 5 per category to ensure you get the most valuable and relevant resources out there. Also, the whole point of this repository is to help you avoid getting overwhelmed with too many choices.
+Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to 3 to 5 per category to ensure you get the most valuable and relevant resources out there (mostly based on thorough research, community contributions and my years of experience as a Data Scientist). *Also, the whole point is to help you avoid getting overwhelmed with too many choices*
 
 Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
 
 # 📚 Learning Resources
-
-## Blogs & Newsletters
-- [Towards Data Science](https://towardsdatascience.com/)
-- [freeCodeCamp.org]()
 
 ## Youtube Channels
 
@@ -19,11 +15,14 @@ Most resources here will be free, but I will also include paid alternatives if t
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos)
 
 ### AI & Machine Learning 
-- [Two Minute Papers]()
-- [This Week in Machine Learning]()
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+
+## Blogs & Newsletters
+- [Towards Data Science](https://towardsdatascience.com/)
+- [freeCodeCamp.org]()
 
 ## Podcasts
-- [Break Into Data (Discord)]()
+- [The TWIML AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7)
 - [Data Science (Reddit)]()
 
 ## Books
