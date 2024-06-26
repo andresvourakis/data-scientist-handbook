@@ -4,7 +4,7 @@ This repository is designed to help aspiring data scientists learn, grow, and br
 
 # Table of Contents
 1. [Learning Resources](#learning-resources)
-2. [Python for Data Science](#python-for-data-science)
+2. [Python for Data Science](#breaking-into-the-job-market)
 3. [Data Analysis and Visualization](#data-analysis-and-visualization)
 4. [Machine Learning Basics](#machine-learning-basics)
 5. [Deep Learning Introduction](#deep-learning-introduction)
