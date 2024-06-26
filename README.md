@@ -2,16 +2,6 @@
 
 This repository is designed to help aspiring data scientists learn, grow, and break into the field of data science. Consider this a directory to help you find valuable resources and guides tailored for beginners.
 
-# Table of Contents
-1. [Learning Resources](#learning-resources)
-2. [Python for Data Science](#breaking-into-the-job-market)
-3. [Data Analysis and Visualization](#data-analysis-and-visualization)
-4. [Machine Learning Basics](#machine-learning-basics)
-5. [Deep Learning Introduction](#deep-learning-introduction)
-6. [Practical Projects and Case Studies](#practical-projects-and-case-studies)
-7. [Interview Preparation Tips](#interview-preparation-tips)
-8. [Further Learning and Services](#further-learning-and-services)
-
 # 📚 Learning Resources
 
 ## Blogs & Newsletters
@@ -38,25 +28,32 @@ This repository is designed to help aspiring data scientists learn, grow, and br
 # 💼 Breaking into the Job Market
 
 ## Career Guidance
+Getting one-on-one mentorship and general career guidance
 - [Break Into Data (Discord)]()
 - [Data Science (Reddit)]()
 
 ## The Data Interview
-- [Break Into Data (Discord)]()
-- [Data Science (Reddit)]()
+### The Coding Interview
+Practicing for the coding part of the technical interview
+- [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions)
+- [Leet Code (Python/SQL)](https://leetcode.com/)
+- [Hacker Rank (Python/SQL)](https://www.hackerrank.com/)
 
 ## Portfolio
-- [Break Into Data (Discord)]()
-- [Data Science (Reddit)]()
+- [Break Into Data (Discord)](https://discord.gg/Uyv7JZ3b)
+- [Data Science (Reddit)](https://www.reddit.com/r/datascience/)
+- [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/)
 
 # 🤝 Connect
 
 ## Communities
-
-- [Break Into Data (Discord)]()
-- [Data Science (Reddit)]()
+Connect with others to collaborate and exchange ideas
+- [Break Into Data (Discord)](https://discord.gg/Uyv7JZ3b)
+- [Data Science (Reddit)](https://www.reddit.com/r/datascience/)
+- [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/)
 
 ## Influencers
+Some great data people you should follow
 - [Break Into Data (Discord)]()
 - [Data Science (Reddit)]()
 
