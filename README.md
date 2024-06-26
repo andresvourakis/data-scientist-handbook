@@ -22,7 +22,7 @@
 - [Data Science (Reddit)]()
 
 ## Books
-- [Towards Data Science]()
+- [Practical Statistics for Data Scientists](https://amzn.to/49D9o3Q)
 - [Free Code Camp]()
 
 # 💼 Breaking into the Job Market
