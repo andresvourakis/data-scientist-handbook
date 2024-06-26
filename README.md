@@ -25,6 +25,7 @@ _________________
 ### Data & Analytics
 - [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills.
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos): Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
+- <a href="https://www.youtube.com/@freecodecamp/videos" target="_blank">freeCodeCamp.org</a>: Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
 
 ### AI & Machine Learning 
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers): Quick and engaging summaries of the latest AI research, making complex topics accessible.
