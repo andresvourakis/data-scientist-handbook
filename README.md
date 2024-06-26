@@ -1,6 +1,6 @@
 # Aspiring Data Scientist Handbook
 
-**Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.**
+**Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.** More information about this project can be found [here](##about)
 
 # 📚 Learning Resources
 
