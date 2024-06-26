@@ -1,19 +1,24 @@
 # Aspiring Data Scientist Handbook
 
-This repository is designed to help aspiring data scientists learn, grow, and break into the field of data science. Consider this a directory to help you find valuable resources and guides tailored for beginners.
+**This repository is designed to help aspiring data scientists learn, grow, and break into the field of data science.**
+
+This curated list of resources is tailored for beginners. Even though there are hundreds of resources out there, I will try to limit them to 3 to 5 per category to ensure you get the most valuable and relevant resources out there. Also, the whole point of this repository is to help you avoid getting overwhelmed with too many choices.
+
+Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
 
 # 📚 Learning Resources
 
 ## Blogs & Newsletters
-- [Towards Data Science]()
-- [Free Code Camp]()
+- [Towards Data Science](https://towardsdatascience.com/)
+- [freeCodeCamp.org]()
 
 ## Youtube Channels
-### AI & Machine Learning 
-- [Two Minute Papers]()
-- [This Week in Machine Learning]()
 
 ### Programming
+- [Data School](https://www.youtube.com/@dataschool/videos)
+- [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos)
+
+### AI & Machine Learning 
 - [Two Minute Papers]()
 - [This Week in Machine Learning]()
 
@@ -29,11 +34,11 @@ This repository is designed to help aspiring data scientists learn, grow, and br
 
 ## Career Guidance
 Getting one-on-one mentorship and general career guidance
-- [Break Into Data (Discord)]()
-- [Data Science (Reddit)]()
+- [Andres Vourakis](https://topmate.io/andres_vourakis)
+- []()
 
 ## The Data Interview
-### The Coding Interview
+### Practicing for Coding Interview
 Practicing for the coding part of the technical interview
 - [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions)
 - [Leet Code (Python/SQL)](https://leetcode.com/)
@@ -47,15 +52,15 @@ Practicing for the coding part of the technical interview
 # 🤝 Connect
 
 ## Communities
-Connect with others to collaborate and exchange ideas
+Find great people to collaborate and exchange ideas
 - [Break Into Data (Discord)](https://discord.gg/Uyv7JZ3b)
 - [Data Science (Reddit)](https://www.reddit.com/r/datascience/)
 - [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/)
 
 ## Influencers
 Some great data people you should follow
-- [Break Into Data (Discord)]()
-- [Data Science (Reddit)]()
+- [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/)
+- [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/)
 
 
 ## Contributions
