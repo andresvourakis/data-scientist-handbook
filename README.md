@@ -5,18 +5,18 @@
 ## Table of Contents
 1. [Learning Resources](#-learning-resources)
    - [YouTube Channels](#youtube-channels)
-   - [Blogs & Newsletters](#blogs--newsletters)
+   - [Blogs](#blogs)
+   - [Newsletters](#newsletters)
    - [Podcasts](#podcasts)
    - [Books](#books)
+   - [Courses](#courses)
 2. [Breaking into the Job Market](#-breaking-into-the-job-market)
    - [Career Guidance](#career-guidance)
    - [The Data Interview](#the-data-interview)
-   - [Portfolio](#portfolio)
+   - [Building a Portfolio](#building-a-portfolio)
 3. [Connect](#-connect)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
-
-_________________
 
 # 📚 Learning Resources
 
@@ -25,24 +25,33 @@ _________________
 ### Data & Analytics
 - [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills.
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos): Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
-- <a href="https://www.youtube.com/@freecodecamp/videos" target="_blank">freeCodeCamp.org</a>: Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
 
 ### AI & Machine Learning 
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers): Quick and engaging summaries of the latest AI research, making complex topics accessible.
 - [Sentdex](https://www.youtube.com/@sentdex): In-depth Python programming and machine learning tutorials, suitable for all skill levels.
 - [Boris Meinardus](https://www.youtube.com/@borismeinardus): Tutorials and insights on AI and data science projects, with a focus on practical applications.
 
-## Blogs & Newsletters
-- [Towards Data Science](https://towardsdatascience.com/): A Medium publication that publishes well-written, informative articles on various data science topics.
-- [freeCodeCamp.org](https://www.freecodecamp.org/news/tag/data-science/): Articles and tutorials covering a wide range of data science concepts, from basic to advanced.
+## Blogs
+- [Towards Data Science (Blog)](https://towardsdatascience.com/): A Medium publication that publishes well-written, informative articles on various data science topics.
+- [freeCodeCamp.org (Blog)](https://www.freecodecamp.org/news/tag/data-science/): Articles and tutorials covering a wide range of data science concepts, from basic to advanced.
+
+## Newsletters
+- [TLDR AI (Newsletter)](https://tldr.tech/ai): A daily newsletter that covers the latest developments in AI, providing concise and insightful updates.
+- [Data Elixir (Newsletter)](https://dataelixir.com/): A weekly newsletter that curates the best data science news, resources, and tutorials from around the web.
+- [Data Science Weekly (Newsletter)](https://substack.com/@datascienceweekly): A newsletter that provides a weekly roundup of data science news, articles, and tutorials.
 
 ## Podcasts
 - [The TWIML AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7): In-depth interviews with AI and machine learning experts, covering cutting-edge topics and industry trends.
-- [Data Science (Reddit)](https://www.reddit.com/r/datascience/): Community-driven discussions and insights on data science, featuring a variety of topics and guest speakers.
+- [Data Skeptic](https://dataskeptic.com/podcast): A podcast featuring interviews and discussions on data science, machine learning, and artificial intelligence.
 
 ## Books
 - [Practical Statistics for Data Scientists](https://amzn.to/49D9o3Q): A comprehensive guide to statistical methods and their application in data science.
-- [Free Code Camp](https://www.freecodecamp.org/news/learn-data-science-with-free-online-courses/): A curated list of free online courses for learning data science, suitable for beginners and intermediate learners.
+- [Python Data Science Handbook](https://amzn.to/3y8KpFb): Essential tools and techniques for data science using Python.
+
+## Courses
+- [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): A series of courses covering data science fundamentals, offered by Johns Hopkins University.
+- [Udacity: Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025): A program that covers a broad range of data science topics, from data wrangling to machine learning.
+- [edX: Data Science MicroMasters](https://www.edx.org/micromasters/mitx-statistics-and-data-science): A series of graduate-level courses designed to provide deep learning in data science.
 
 # 💼 Breaking into the Job Market
 
@@ -59,10 +68,9 @@ Practicing for the coding part of the technical interview
 - [Leet Code (Python/SQL)](https://leetcode.com/): A popular platform for coding practice and interview preparation, featuring a wide range of problems in Python and SQL.
 - [Hacker Rank (Python/SQL)](https://www.hackerrank.com/): Coding challenges and competitions to help you hone your programming skills and prepare for technical interviews.
 
-## Portfolio
+## Building a Portfolio
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
-- [Data Science (Reddit)](https://www.reddit.com/r/datascience/): A subreddit where you can share your portfolio, get feedback, and find inspiration from others.
-- [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/): A community for sharing projects, learning resources, and receiving feedback on your data science work.
+- [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated list of project ideas to help you build and showcase your data science portfolio.
 
 # 🤝 Connect
 
@@ -78,6 +86,7 @@ Some great data people you should follow
 - [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Data science professional offering career tips and data science content.
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data scientist and mentor, providing valuable advice and resources.
 - [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Experienced data scientist and educator, sharing knowledge and career guidance.
+- [Karun Tankachan](https://www.linkedin.com/in/karunt/)
 
 # About
 Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to 3 or a maximum of 5 per category to ensure you get the most valuable and relevant resources out there. Also, the whole point is to help you avoid getting overwhelmed with too many choices.
