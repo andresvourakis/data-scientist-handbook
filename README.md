@@ -4,6 +4,7 @@
 
 # Table of Contents
 1. [Learning Resources](#-learning-resources)
+2. [Breaking into the job market](#-breaking-into-the-job-market)
 
 # 📚 Learning Resources
 
