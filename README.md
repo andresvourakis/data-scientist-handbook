@@ -70,7 +70,14 @@ Practicing for the coding part of the technical interview
 
 ## Building a Portfolio
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
-- [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated list of project ideas to help you build and showcase your data science portfolio.
+- [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business and catch the eye of hiring managers.
+
+## Resume
+- [Enhance CV](https://enhancv.com/):
+- [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184):
+
+## Misc
+- [Data Job Market Report](https://datajobmarket.streamlit.app/):
 
 # 🤝 Connect
 
