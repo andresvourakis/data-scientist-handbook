@@ -6,7 +6,7 @@
 
 ## Youtube Channels
 
-### Programming
+### Data & Analytics
 - [Data School](https://www.youtube.com/@dataschool/videos)
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos)
 
