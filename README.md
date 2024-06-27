@@ -23,6 +23,7 @@
 # 📚 Learning Resources
 
 ## YouTube Channels
+Great youtube channels with lots of free tutorials to help you learn data science, ideal for self-learners.
 
 ### Core Data Science
 - [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Specially great for learning how to work with the `pandas` library
@@ -75,7 +76,7 @@ Practicing for the coding part of the technical interview
 - [Hacker Rank (Python/SQL)](https://www.hackerrank.com/): Coding challenges and competitions to help you hone your programming skills and prepare for technical interviews.
 
 ## Building a Portfolio
-Resources to buid a competitive Data Science portfolio
+Resources to help you build a competitive Data Science portfolio
 - [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20)
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
 - [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
