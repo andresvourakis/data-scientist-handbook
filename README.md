@@ -9,8 +9,6 @@
    - [Newsletters](#newsletters)
    - [Podcasts](#podcasts)
    - [Books](#books)
-   - [Courses](#courses)
-   - [Certifications](#certifications)
 2. [Breaking into the Job Market](#-breaking-into-the-job-market)
    - [The Technical Interview](#the-technical-interview)
    - [Building a Portfolio](#building-a-portfolio)
@@ -59,16 +57,6 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 - [Python Data Science Handbook](https://a.co/d/02kfOrnv): Essential tools and techniques for data science using Python.
 - [Machine Learning Simplified](https://themlsbook.com/): A clear and concise guide to understanding machine learning concepts and applications.
 - [Storytelling with Data](https://a.co/d/0htJ53bs): A guide to creating impactful data visualizations and telling compelling data-driven stories.
-
-## Courses
-- [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): A series of courses covering data science fundamentals, offered by Johns Hopkins University.
-- [Udacity: Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025): A program that covers a broad range of data science topics, from data wrangling to machine learning.
-- [edX: Data Science MicroMasters](https://www.edx.org/micromasters/mitx-statistics-and-data-science): A series of graduate-level courses designed to provide deep learning in data science.
-
-## Certifications
-- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science): A certification program that covers the foundational skills required for a career in data science.
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics): A certification focused on data analysis skills using Google tools.
-- [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist): A certification for professionals using Azure's machine learning and data science services.
 
 # 💼 Breaking into the Job Market
 
