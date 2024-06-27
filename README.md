@@ -16,7 +16,7 @@
    - [Building a Portfolio](#building-a-portfolio)
    - [Crafting a Resume](#crafting-a-resume)
    - [Courses & Mentorshop](#career-guidance)
-3. [Connecting with others](#-connect)
+3. [Connecting with others](#-connecting-with-others)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
 
@@ -97,7 +97,7 @@ Getting one-on-one mentorship and general career guidance
 ## Misc
 - [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into in-demand skills.
 
-# 🤝 Connect
+# 🤝 Connecting with Others
 
 ## Communities
 Find great people to collaborate and exchange ideas
