@@ -25,7 +25,7 @@
 ## YouTube Channels
 
 ### Core Data Science
-- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Specially great for working with the `pandas` library
+- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Specially great for learning how to work with the `pandas` library
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos): Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest): Simplifies complex statistical concepts and machine learning algorithms through engaging and easy-to-understand videos.
 - [Data Professor](https://www.youtube.com/@DataProfessor/videos): Educational videos on data science, machine learning, and bioinformatics, aimed at helping you become a data professional.
@@ -68,20 +68,15 @@
 
 # 💼 Breaking into the Job Market
 
-## Career Guidance
-Getting one-on-one mentorship and general career guidance
-- [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist.
-- [Career Village](https://www.careervillage.org/): A community-driven platform where students can get career advice from professionals.
-
-## The Data Interview
-
-### Practicing for Coding Interviews
+## The Data Technical Interview
 Practicing for the coding part of the technical interview
 - [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions): A collection of SQL interview questions to help you practice and improve your database querying skills.
 - [Leet Code (Python/SQL)](https://leetcode.com/): A popular platform for coding practice and interview preparation, featuring a wide range of problems in Python and SQL.
 - [Hacker Rank (Python/SQL)](https://www.hackerrank.com/): Coding challenges and competitions to help you hone your programming skills and prepare for technical interviews.
 
 ## Building a Portfolio
+Resources to buid a competitive Data Science portfolio
+- [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20)
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
 - [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
 
@@ -89,8 +84,14 @@ Practicing for the coding part of the technical interview
 - [Enhance CV](https://enhancv.com/): A tool that helps you build standout resumes that get results, with templates and guides tailored for data science roles.
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job.
 
+## Career Guidance Courses and Mentorship
+Getting one-on-one mentorship and general career guidance
+- [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist.
+- [Career Village](https://www.careervillage.org/): A community-driven platform where students can get career advice from professionals.
+- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): 
+
 ## Misc
-- [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into job trends, salaries, and in-demand skills.
+- [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into in-demand skills.
 
 # 🤝 Connect
 
