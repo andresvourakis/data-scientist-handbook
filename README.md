@@ -77,6 +77,7 @@ Resources to help you build a competitive Data Science portfolio
 
 ## Crafting a Resume
 - [Enhance CV](https://enhancv.com/): A tool that helps you build standout resumes that get results, with templates and guides tailored for data science roles.
+- [Resume ATS Optimization](https://resume.io/blog/how-to-build-a-bulletproof-ATS-friendly-resume?cq_plac=&cq_net=x&cq_pos=&cq_med=&cq_plt=gp&ga_utm_source=google&utm_medium=ppc&utm_campaign=18329810119&utm_adgroup=&utm_custom=Resume.io|SE|Pmax|NB&utm_content=&utm_term=&matchtype=&device=c&location=9196267&gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv_vwpE-how5eTMqlASshTm1FpU3mXUbupsn-_cwfiFG4XW06RrgWaBoCboQQAvD_BwE): A guide on how to build an ATS friendly resume
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
 
 ## Courses and Mentorship
