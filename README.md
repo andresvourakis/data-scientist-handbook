@@ -23,10 +23,10 @@
 # 📚 Learning Resources
 
 ## YouTube Channels
-Great youtube channels with lots of free tutorials to help you learn data science, ideal for self-learners.
+Great YouTube channels with lots of free tutorials to help you learn data science, ideal for self-learners.
 
 ### Core Data Science
-- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Specially great for learning how to work with the `pandas` library
+- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Especially great for learning how to work with the `pandas` library
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos): Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest): Simplifies complex statistical concepts and machine learning algorithms through engaging and easy-to-understand videos.
 - [Data Professor](https://www.youtube.com/@DataProfessor/videos): Educational videos on data science, machine learning, and bioinformatics, aimed at helping you become a data professional.
@@ -55,7 +55,7 @@ Great youtube channels with lots of free tutorials to help you learn data scienc
 
 ## Books
 - [Practical Statistics for Data Scientists](https://amzn.to/49D9o3Q): A comprehensive guide to statistical methods and their application in data science.
-- [Python Data Science Handbook](https://amzn.to/3y8KpFb): Essential tools and techniques for data science using Python.
+- [Python Data Science Handbook](https://a.co/d/02kfOrnv): Essential tools and techniques for data science using Python.
 
 ## Courses
 - [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): A series of courses covering data science fundamentals, offered by Johns Hopkins University.
@@ -103,7 +103,7 @@ Find great people to collaborate and exchange ideas
 - [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/): A supportive community for those learning data science, offering resources, project ideas, and peer support.
 
 ## Content Creators
-Some great data people you should follow
+Data Scientists who share 
 - [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Data scientist and educator sharing insights and tutorials on LinkedIn.
 - [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Data science professional offering career tips and data science content.
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data scientist and mentor, providing valuable advice and resources.
