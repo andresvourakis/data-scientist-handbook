@@ -80,15 +80,15 @@ Resources to help you build a competitive Data Science portfolio
 - [Resume ATS Optimization](https://resume.io/blog/how-to-build-a-bulletproof-ATS-friendly-resume?cq_plac=&cq_net=x&cq_pos=&cq_med=&cq_plt=gp&ga_utm_source=google&utm_medium=ppc&utm_campaign=18329810119&utm_adgroup=&utm_custom=Resume.io|SE|Pmax|NB&utm_content=&utm_term=&matchtype=&device=c&location=9196267&gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv_vwpE-how5eTMqlASshTm1FpU3mXUbupsn-_cwfiFG4XW06RrgWaBoCboQQAvD_BwE): A guide on how to build an ATS friendly resume
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
 
-## Courses and Mentorship
-Getting one-on-one mentorship and general career guidance
-- [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist and ex-hiring manager.
-- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): An accelerator program to help you gain a competitive advantage during your job search and land a data job quickly. Coupon code `student20` to get a student discount.
-
 ## Job Market Insights
 - [Glassdoor](https://www.glassdoor.com/): Reviews, salary data, and interview experiences for companies and job roles in data science.
 - [Data Job Market Dashboard](https://datajobmarket.streamlit.app/): Regularly updated dashboard of the data job market, providing insights into in-demand skills for Data Scientist and Data Analyst roles.
 - [The Data Scientist Job Market in 2024](https://365datascience.com/career-advice/data-scientist-job-market/): Article with insights on the data job market in 2024 based on research of 1,000 job postings.
+
+## Courses and Mentorship
+Getting one-on-one mentorship and general career guidance
+- [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist and ex-hiring manager.
+- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): An accelerator program to help you gain a competitive advantage during your job search and land a data job quickly. Coupon code `student20` to get a student discount.
 
 # 🤝 Connecting with Others
 
