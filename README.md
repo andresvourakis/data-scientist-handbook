@@ -104,4 +104,19 @@ Getting one-on-one mentorship and general career guidance
 Find great people to collaborate and exchange ideas
 - [Break Into Data (Discord)](https://discord.gg/Uyv7JZ3b): A vibrant Discord community for aspiring and professional data scientists to network and share knowledge.
 - [Data Science (Reddit)](https://www.reddit.com/r/datascience/): A subreddit for discussing all things data science, including career advice, project ideas, and industry news.
-- [Learn Data Science (Reddit)](https://www.reddit.com/r/
+- [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/): A supportive community for those learning data science, offering resources, project ideas, and peer support.
+
+## Content Creators
+Data Scientists who share valuable insights and tutorials
+- [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Data scientist and educator sharing insights and tutorials on LinkedIn.
+- [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Data science professional offering career tips and data science content.
+- [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data scientist and mentor, providing valuable advice and resources.
+- [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Experienced data scientist and educator, sharing knowledge and career guidance.
+- [Karun Tankachan](https://www.linkedin.com/in/karunt/): Data science influencer sharing valuable content and insights on LinkedIn.
+
+# About
+Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point of this repository is to help you avoid getting overwhelmed by too many choices. This way you can focus less time researching and more time learning.
+
+## FAQs
+1. **How is curation done?** Curation is based on thorough research, recommendations from people I trust, and my years of experience as a Data Scientist.
+2. **Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
