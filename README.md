@@ -88,12 +88,12 @@ Resources to help you build a competitive Data Science portfolio
 
 ## Crafting a Resume
 - [Enhance CV](https://enhancv.com/): A tool that helps you build standout resumes that get results, with templates and guides tailored for data science roles.
-- [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job.
+- [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
 
 ## Courses and Mentorship
 Getting one-on-one mentorship and general career guidance
 - [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist.
-- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): A course designed to prepare you for data science roles, with practical skills and career advice.
+- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): A course designed to prepare you for data science roles, with practical skills and career advice. Coupon code `student20` for discount for students.
 
 ## Misc
 - [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into in-demand skills.
