@@ -117,5 +117,5 @@ Data Scientists who share
 Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point of this repository is to help you avoid getting overwhelmed by too many choices. This way you can focus less time researching and more time learning.
 
 ## FAQs
-**How is curation done?** Curation is based on thorough research, recommendations from people I trust, and my years of experience as a Data Scientist.
-**Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
+1. **How is curation done?** Curation is based on thorough research, recommendations from people I trust, and my years of experience as a Data Scientist.
+2. **Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
