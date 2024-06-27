@@ -56,6 +56,8 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 ## Books
 - [Practical Statistics for Data Scientists](https://amzn.to/49D9o3Q): A comprehensive guide to statistical methods and their application in data science.
 - [Python Data Science Handbook](https://a.co/d/02kfOrnv): Essential tools and techniques for data science using Python.
+- [Machine Learning Simplified](https://themlsbook.com/):
+- [Storytelling with data](https://a.co/d/0htJ53bs):
 
 ## Courses
 - [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): A series of courses covering data science fundamentals, offered by Johns Hopkins University.
@@ -77,8 +79,9 @@ Practicing for the coding part of the technical interview
 
 ## Building a Portfolio
 Resources to help you build a competitive Data Science portfolio
-- [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20)
+- [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20): Medium blog
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
+- [How to Make a Data Science Portfolio With GitHub Pages (2024)](https://www.youtube.com/watch?v=D9CLhQdLp8w&t=118s): Youtube Video
 - [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
 
 ## Crafting a Resume
