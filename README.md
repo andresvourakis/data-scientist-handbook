@@ -10,9 +10,11 @@
    - [Podcasts](#podcasts)
    - [Books](#books)
    - [Courses](#courses)
+   - [Certifications](#certifications)
 2. [Breaking into the Job Market](#-breaking-into-the-job-market)
    - [Career Guidance](#career-guidance)
    - [The Data Interview](#the-data-interview)
+     - [Practicing for Coding Interviews](#practicing-for-coding-interviews)
    - [Building a Portfolio](#building-a-portfolio)
 3. [Connect](#-connect)
    - [Communities](#communities)
@@ -22,14 +24,20 @@
 
 ## YouTube Channels
 
-### Data & Analytics
-- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills.
+### Core Data Science
+- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Specially great for working with the `pandas` library
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos): Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest): Simplifies complex statistical concepts and machine learning algorithms through engaging and easy-to-understand videos.
+- [Data Professor](https://www.youtube.com/@DataProfessor/videos): Educational videos on data science, machine learning, and bioinformatics, aimed at helping you become a data professional.
 
 ### AI & Machine Learning 
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers): Quick and engaging summaries of the latest AI research, making complex topics accessible.
 - [Sentdex](https://www.youtube.com/@sentdex): In-depth Python programming and machine learning tutorials, suitable for all skill levels.
-- [Boris Meinardus](https://www.youtube.com/@borismeinardus): Tutorials and insights on AI and data science projects, with a focus on practical applications.
+- [Boris Meinardus](https://www.youtube.com/@borismeinardus): Tutorials and insights on AI and machine learning with a focus on practical applications.
+
+### Data & Analytics
+- [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/videos): Real-world data analytics tutorials and career advice to help you break into the field.
+- [Luke Barousse](https://www.youtube.com/@LukeBarousse): Data science projects and tutorials, focusing on practical applications and real-world use cases.
 
 ## Blogs
 - [Towards Data Science](https://towardsdatascience.com/): A Medium publication that publishes well-written, informative articles on various data science topics.
@@ -53,6 +61,11 @@
 - [Udacity: Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025): A program that covers a broad range of data science topics, from data wrangling to machine learning.
 - [edX: Data Science MicroMasters](https://www.edx.org/micromasters/mitx-statistics-and-data-science): A series of graduate-level courses designed to provide deep learning in data science.
 
+## Certifications
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science): A certification program that covers the foundational skills required for a career in data science.
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics): A certification focused on data analysis skills using Google tools.
+- [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist): A certification for professionals using Azure's machine learning and data science services.
+
 # 💼 Breaking into the Job Market
 
 ## Career Guidance
@@ -70,14 +83,14 @@ Practicing for the coding part of the technical interview
 
 ## Building a Portfolio
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
-- [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business and catch the eye of hiring managers.
+- [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
 
 ## Resume
-- [Enhance CV](https://enhancv.com/):
-- [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184):
+- [Enhance CV](https://enhancv.com/): A tool that helps you build standout resumes that get results, with templates and guides tailored for data science roles.
+- [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job.
 
 ## Misc
-- [Data Job Market Report](https://datajobmarket.streamlit.app/):
+- [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into job trends, salaries, and in-demand skills.
 
 # 🤝 Connect
 
@@ -93,7 +106,7 @@ Some great data people you should follow
 - [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Data science professional offering career tips and data science content.
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data scientist and mentor, providing valuable advice and resources.
 - [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Experienced data scientist and educator, sharing knowledge and career guidance.
-- [Karun Tankachan](https://www.linkedin.com/in/karunt/)
+- [Karun Tankachan](https://www.linkedin.com/in/karunt/): Data science influencer sharing valuable content and insights on LinkedIn.
 
 # About
 Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point is to help you avoid getting overwhelmed with too many choices.
@@ -101,4 +114,3 @@ Even though there are hundreds of resources out there (too many to keep track of
 ## FAQs
 **How is curation done?** Curation is based on thorough research, community contributions, and my years of experience as a Data Scientist.
 **Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
-
