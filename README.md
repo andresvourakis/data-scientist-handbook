@@ -16,7 +16,7 @@
    - [Building a Portfolio](#building-a-portfolio)
    - [Crafting a Resume](#crafting-a-resume)
    - [Courses & Mentorship](#courses-and-mentorship)
-3. [Connecting with others](#-connecting-with-others)
+3. [Connecting with Others](#-connecting-with-others)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
 
@@ -26,7 +26,7 @@
 Great YouTube channels with lots of free tutorials to help you learn data science, ideal for self-learners.
 
 ### Core Data Science
-- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Especially great for learning how to work with the `pandas` library
+- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Especially great for learning how to work with the `pandas` library.
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos): Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest): Simplifies complex statistical concepts and machine learning algorithms through engaging and easy-to-understand videos.
 - [Data Professor](https://www.youtube.com/@DataProfessor/videos): Educational videos on data science, machine learning, and bioinformatics, aimed at helping you become a data professional.
@@ -47,7 +47,7 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 ## Newsletters
 - [TLDR AI](https://tldr.tech/ai): A daily newsletter that covers the latest developments in AI, providing concise and insightful updates.
 - [Data Elixir](https://dataelixir.com/): A weekly newsletter that curates the best data science news, resources, and tutorials from around the web.
-- [Data Science Weekly](https://substack.com/@datascienceweekly): A newsletter that provides a weekly roundup of data science news, articles, and tutorials.
+- [Data Science Weekly](https://datascienceweekly.substack.com/): A newsletter that provides a weekly roundup of data science news, articles, and tutorials.
 
 ## Podcasts
 - [The TWIML AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7): In-depth interviews with AI and machine learning experts, covering cutting-edge topics and industry trends.
@@ -56,8 +56,8 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 ## Books
 - [Practical Statistics for Data Scientists](https://amzn.to/49D9o3Q): A comprehensive guide to statistical methods and their application in data science.
 - [Python Data Science Handbook](https://a.co/d/02kfOrnv): Essential tools and techniques for data science using Python.
-- [Machine Learning Simplified](https://themlsbook.com/):
-- [Storytelling with data](https://a.co/d/0htJ53bs):
+- [Machine Learning Simplified](https://themlsbook.com/): A clear and concise guide to understanding machine learning concepts and applications.
+- [Storytelling with Data](https://a.co/d/0htJ53bs): A guide to creating impactful data visualizations and telling compelling data-driven stories.
 
 ## Courses
 - [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): A series of courses covering data science fundamentals, offered by Johns Hopkins University.
@@ -76,14 +76,14 @@ Practicing for the coding part of the technical interview
 - [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions): A collection of SQL interview questions to help you practice and improve your database querying skills.
 - [Leet Code (Python/SQL)](https://leetcode.com/): A popular platform for coding practice and interview preparation, featuring a wide range of problems in Python and SQL.
 - [Hacker Rank (Python/SQL)](https://www.hackerrank.com/): Coding challenges and competitions to help you hone your programming skills and prepare for technical interviews.
-- [Ace the Data Science Interview](https://a.co/d/09zr2b3f):
-- [Data Science Mock Interviews](https://topmate.io/andres_vourakis/826111): 1-hour mock interview with an experienced Data Scientist and ex-hiring manager to help you prepare for your next interview.
+- [Ace the Data Science Interview](https://a.co/d/09zr2b3f): A comprehensive book with real interview questions and detailed answers to help you succeed in your data science interviews.
+- [Data Science Mock Interviews](https://topmate.io/andres_vourakis/826111): Mock interview sessions with an experienced Data Scientist and ex-hiring manager to help you prepare for your next interview. Use code `HANDBOOK20` for a discount.
 
 ## Building a Portfolio
 Resources to help you build a competitive Data Science portfolio
-- [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20): Medium blog
+- [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20): Medium blog with tips on building an effective portfolio.
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
-- [How to Make a Data Science Portfolio With GitHub Pages (2024)](https://www.youtube.com/watch?v=D9CLhQdLp8w&t=118s): Youtube Video
+- [How to Make a Data Science Portfolio With GitHub Pages (2024)](https://www.youtube.com/watch?v=D9CLhQdLp8w&t=118s): YouTube video tutorial on creating a data science portfolio using GitHub Pages.
 - [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
 
 ## Crafting a Resume
@@ -93,8 +93,7 @@ Resources to help you build a competitive Data Science portfolio
 ## Courses and Mentorship
 Getting one-on-one mentorship and general career guidance
 - [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist.
-- [Career Village](https://www.careervillage.org/): A community-driven platform where students can get career advice from professionals.
-- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): 
+- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): A course designed to prepare you for data science roles, with practical skills and career advice.
 
 ## Misc
 - [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into in-demand skills.
@@ -105,19 +104,4 @@ Getting one-on-one mentorship and general career guidance
 Find great people to collaborate and exchange ideas
 - [Break Into Data (Discord)](https://discord.gg/Uyv7JZ3b): A vibrant Discord community for aspiring and professional data scientists to network and share knowledge.
 - [Data Science (Reddit)](https://www.reddit.com/r/datascience/): A subreddit for discussing all things data science, including career advice, project ideas, and industry news.
-- [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/): A supportive community for those learning data science, offering resources, project ideas, and peer support.
-
-## Content Creators
-Data Scientists who share 
-- [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Data scientist and educator sharing insights and tutorials on LinkedIn.
-- [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Data science professional offering career tips and data science content.
-- [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data scientist and mentor, providing valuable advice and resources.
-- [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Experienced data scientist and educator, sharing knowledge and career guidance.
-- [Karun Tankachan](https://www.linkedin.com/in/karunt/): Data science influencer sharing valuable content and insights on LinkedIn.
-
-# About
-Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point of this repository is to help you avoid getting overwhelmed by too many choices. This way you can focus less time researching and more time learning.
-
-## FAQs
-1. **How is curation done?** Curation is based on thorough research, recommendations from people I trust, and my years of experience as a Data Scientist.
-2. **Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
+- [Learn Data Science (Reddit)](https://www.reddit.com/r/
