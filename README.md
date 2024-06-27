@@ -110,7 +110,7 @@ Some great data people you should follow
 - [Karun Tankachan](https://www.linkedin.com/in/karunt/): Data science influencer sharing valuable content and insights on LinkedIn.
 
 # About
-Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point is to help you avoid getting overwhelmed with too many choices.
+Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point of this repository is to help you avoid getting overwhelmed by too many choices. This way you can focus less time researching and more time learning.
 
 ## FAQs
 **How is curation done?** Curation is based on thorough research, community contributions, and my years of experience as a Data Scientist.
