@@ -12,10 +12,10 @@
    - [Courses](#courses)
    - [Certifications](#certifications)
 2. [Breaking into the Job Market](#-breaking-into-the-job-market)
-   - [Career Guidance](#career-guidance)
-   - [The Data Interview](#the-data-interview)
-     - [Practicing for Coding Interviews](#practicing-for-coding-interviews)
+   - [The Technical Interview](#the-technical-interview)
    - [Building a Portfolio](#building-a-portfolio)
+   - [Crafting a Resume](#crafting-a-resume)
+   - [Courses & Mentorshop](#career-guidance)
 3. [Connect](#-connect)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
@@ -69,7 +69,7 @@ Great youtube channels with lots of free tutorials to help you learn data scienc
 
 # 💼 Breaking into the Job Market
 
-## The Data Technical Interview
+## The Technical Interview
 Practicing for the coding part of the technical interview
 - [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions): A collection of SQL interview questions to help you practice and improve your database querying skills.
 - [Leet Code (Python/SQL)](https://leetcode.com/): A popular platform for coding practice and interview preparation, featuring a wide range of problems in Python and SQL.
@@ -81,11 +81,11 @@ Resources to help you build a competitive Data Science portfolio
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
 - [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
 
-## Resume
+## Crafting a Resume
 - [Enhance CV](https://enhancv.com/): A tool that helps you build standout resumes that get results, with templates and guides tailored for data science roles.
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job.
 
-## Career Guidance Courses and Mentorship
+## Courses and Mentorship
 Getting one-on-one mentorship and general career guidance
 - [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist.
 - [Career Village](https://www.careervillage.org/): A community-driven platform where students can get career advice from professionals.
