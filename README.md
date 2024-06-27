@@ -15,7 +15,7 @@
    - [The Technical Interview](#the-technical-interview)
    - [Building a Portfolio](#building-a-portfolio)
    - [Crafting a Resume](#crafting-a-resume)
-   - [Courses & Mentorshop](#career-guidance)
+   - [Courses & Mentorship](#courses-and-mentorship)
 3. [Connecting with others](#-connecting-with-others)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
@@ -76,6 +76,8 @@ Practicing for the coding part of the technical interview
 - [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions): A collection of SQL interview questions to help you practice and improve your database querying skills.
 - [Leet Code (Python/SQL)](https://leetcode.com/): A popular platform for coding practice and interview preparation, featuring a wide range of problems in Python and SQL.
 - [Hacker Rank (Python/SQL)](https://www.hackerrank.com/): Coding challenges and competitions to help you hone your programming skills and prepare for technical interviews.
+- [Ace the Data Science Interview](https://a.co/d/09zr2b3f):
+- [Data Science Mock Interviews](https://topmate.io/andres_vourakis/826111): 1-hour mock interview with an experienced Data Scientist and ex-hiring manager to help you prepare for your next interview.
 
 ## Building a Portfolio
 Resources to help you build a competitive Data Science portfolio
