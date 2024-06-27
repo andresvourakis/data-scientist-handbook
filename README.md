@@ -15,6 +15,7 @@
    - [The Technical Interview](#the-technical-interview)
    - [Building a Portfolio](#building-a-portfolio)
    - [Crafting a Resume](#crafting-a-resume)
+   - [Job Market Insights](#job-market-insights)
    - [Courses & Mentorship](#courses-and-mentorship)
 3. [Connecting with Others](#-connecting-with-others)
    - [Communities](#communities)
@@ -95,8 +96,10 @@ Getting one-on-one mentorship and general career guidance
 - [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist and ex-hiring manager.
 - [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): An accelerator program to help you gain a competitive advantage during your job search and land a data job quickly. Coupon code `student20` to get a student discount.
 
-## Misc
-- [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into in-demand skills.
+## Job Market Insights
+- [Glassdoor](https://www.glassdoor.com/): Reviews, salary data, and interview experiences for companies and job roles in data science.
+- [Data Job Market Dashboard](https://datajobmarket.streamlit.app/): Regularly updated dashboard of the data job market, providing insights into in-demand skills for Data Scientist and Data Analyst roles.
+- [The Data Scientist Job Market in 2024](https://365datascience.com/career-advice/data-scientist-job-market/): Article with insights on the data job market in 2024 based on research of 1,000 job postings.
 
 # 🤝 Connecting with Others
 
