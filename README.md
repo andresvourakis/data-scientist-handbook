@@ -92,8 +92,8 @@ Resources to help you build a competitive Data Science portfolio
 
 ## Courses and Mentorship
 Getting one-on-one mentorship and general career guidance
-- [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist.
-- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): A course designed to prepare you for data science roles, with practical skills and career advice. Coupon code `student20` for discount for students.
+- [Andres Vourakis](https://topmate.io/andres_vourakis): Personalized mentorship and career guidance from an experienced data scientist and ex-hiring manager.
+- [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready): An accelerator program to help you gain a competitive advantage during your job search and land a data job quickly. Coupon code `student20` to get a student discount.
 
 ## Misc
 - [Data Job Market Report](https://datajobmarket.streamlit.app/): Regularly updated reports on the data job market, providing insights into in-demand skills.
