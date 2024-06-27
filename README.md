@@ -3,7 +3,7 @@
 **Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.** *More information about this project can be found [here](#about)*
 
 ## Table of Contents
-1. [Learning Resources](#-learning-resources)
+1. [Learning Data Science](#-learning-data-science)
    - [YouTube Channels](#youtube-channels)
    - [Blogs](#blogs)
    - [Newsletters](#newsletters)
@@ -16,11 +16,11 @@
    - [Building a Portfolio](#building-a-portfolio)
    - [Crafting a Resume](#crafting-a-resume)
    - [Courses & Mentorshop](#career-guidance)
-3. [Connect](#-connect)
+3. [Connecting with others](#-connect)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
 
-# 📚 Learning Resources
+# 📚 Learning Data Science
 
 ## YouTube Channels
 Great YouTube channels with lots of free tutorials to help you learn data science, ideal for self-learners.
