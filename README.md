@@ -70,10 +70,10 @@ Practicing for the coding part of the technical interview
 
 ## Building a Portfolio
 Resources to help you build a competitive Data Science portfolio
-- [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20): Medium blog with tips on building an effective portfolio.
+- [Crafting a Data Science Portfolio That Will Actually Get You An Interview This 2024](https://medium.com/gitconnected/crafting-a-data-science-portfolio-that-will-actually-get-you-an-interview-this-2024-710c77d89d20): Medium blog.
 - [datascienceportfol.io](https://datascienceportfol.io): Great website to showcase your portfolio projects for free and get inspiration from the community.
-- [How to Make a Data Science Portfolio With GitHub Pages (2024)](https://www.youtube.com/watch?v=D9CLhQdLp8w&t=118s): YouTube video tutorial on creating a data science portfolio using GitHub Pages.
-- [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
+- [How to Make a Data Science Portfolio With GitHub Pages (2024)](https://www.youtube.com/watch?v=D9CLhQdLp8w&t=118s): YouTube video tutorial.
+- [Data Science Project Ideas](https://topmate.io/andres_vourakis/995993): A curated collection of Data Science project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
 
 ## Crafting a Resume
 - [Enhance CV](https://enhancv.com/): A tool that helps you build standout resumes that get results, with templates and guides tailored for data science roles.
