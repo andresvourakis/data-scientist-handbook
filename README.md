@@ -3,19 +3,19 @@
 **Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.** *More information about this project can be found [here](#about)*
 
 ## Table of Contents
-1. [Learning Data Science](#-learning-data-science)
+1. [📚 Learning Data Science](#-learning-data-science)
    - [YouTube Channels](#youtube-channels)
    - [Blogs](#blogs)
    - [Newsletters](#newsletters)
    - [Podcasts](#podcasts)
    - [Books](#books)
-2. [Breaking into the Job Market](#-breaking-into-the-job-market)
+2. [💼 Breaking into the Job Market](#-breaking-into-the-job-market)
    - [The Technical Interview](#the-technical-interview)
    - [Building a Portfolio](#building-a-portfolio)
    - [Crafting a Resume](#crafting-a-resume)
    - [Job Market Insights](#job-market-insights)
    - [Courses & Mentorship](#courses-and-mentorship)
-3. [Connecting with Others](#-connecting-with-others)
+3. [🤝 Connecting with Others](#-connecting-with-others)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
 
