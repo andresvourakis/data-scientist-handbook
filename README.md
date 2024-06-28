@@ -101,11 +101,11 @@ Find great people to collaborate and exchange ideas
 
 ## Content Creators
 Data Scientists who share valuable insights and tutorials
-- [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Data scientist and educator sharing insights and tutorials on LinkedIn.
-- [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Data science professional offering career tips and data science content.
-- [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data scientist and mentor, providing valuable advice and resources.
-- [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Experienced data scientist and educator, sharing knowledge and career guidance.
-- [Karun Tankachan](https://www.linkedin.com/in/karunt/): Data science influencer sharing valuable content and insights on LinkedIn.
+- [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Sr. Data Scientist and Career Coach
+- [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Content creator doing Data Science @ Google
+- [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data Scientist (ex-Meta, ex-Amazon) and interview coach.
+- [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Data Science (ex-hiring Manager), and career coach. 
+- [Karun Tankachan](https://www.linkedin.com/in/karunt/): Senior Data Scientist @ Walmart and mentor.
 
 # About
 Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point of this repository is to help you avoid getting overwhelmed by too many choices. This way you can focus less time researching and more time learning.
