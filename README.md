@@ -50,7 +50,7 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 
 ## Podcasts
 - [The TWIML AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7): In-depth interviews with AI and machine learning experts, covering cutting-edge topics and industry trends.
-- [Data Skeptic](https://dataskeptic.com/podcast): A podcast featuring interviews and discussions on data science, machine learning, and artificial intelligence.
+- [Data Skeptic](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4?si=8ecaa568925c4e2f): A podcast featuring interviews and discussions on data science, machine learning, and artificial intelligence.
 
 ## Books
 - [Practical Statistics for Data Scientists](https://amzn.to/49D9o3Q): A comprehensive guide to statistical methods and their application in data science.
