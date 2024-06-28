@@ -1,6 +1,8 @@
 # Aspiring Data Scientist Handbook 2024
 
-**Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.** *More information about this project can be found [here](#about)*
+**Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.** 
+
+**Note:** For your convenience, if you see this symbol :heavy_dollar_sign: next to a resource, it means it is a paid resource. More information about this project can be found [here](#about)
 
 ## Table of Contents
 1. [📚 Learning Data Science](#-learning-data-science)
@@ -112,4 +114,8 @@ Even though there are hundreds of resources out there (too many to keep track of
 
 ## FAQs
 1. **How is curation done?** Curation is based on thorough research, recommendations from people I trust, and my years of experience as a Data Scientist.
-2. **Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development.
+2. **Are all resources free?** Most resources here will be free, but I will also include paid alternatives if they are truly valuable to your career development. All paid resources include the symbol :heavy_dollar_sign:.
+3. **How often is the repository updated?** I plan to come back here as often as possible to ensure all resources are still available and relevant and also to add new ones.
+
+If you have questions or feedback send me a message through [here](https://www.linkedin.com/in/andresvourakis/). Enjoy!
+  
