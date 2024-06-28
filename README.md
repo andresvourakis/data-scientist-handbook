@@ -81,9 +81,9 @@ Resources to help you build a competitive Data Science portfolio
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184): Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
 
 ## Job Market Insights
-- [Glassdoor](https://www.glassdoor.com/): Reviews, salary data, and interview experiences for companies and job roles in data science.
-- [Data Job Market Dashboard](https://datajobmarket.streamlit.app/): Regularly updated dashboard of the data job market, providing insights into in-demand skills for Data Scientist and Data Analyst roles.
 - [The Data Scientist Job Market in 2024](https://365datascience.com/career-advice/data-scientist-job-market/): Article with insights on the data job market in 2024 based on research of 1,000 job postings.
+- [Data Job Market Dashboard](https://datajobmarket.streamlit.app/): Regularly updated dashboard of the data job market, providing insights into in-demand skills for Data Scientist and Data Analyst roles.
+- [Glassdoor](https://www.glassdoor.com/): Reviews, salary data, and interview experiences for companies and job roles in data science.
 
 ## Courses and Mentorship
 Getting one-on-one mentorship and general career guidance
