@@ -25,7 +25,7 @@
 Great YouTube channels with lots of free tutorials to help you learn data science, ideal for self-learners.
 
 ### Core Data Science
-- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Especially great for learning how to work with the `pandas` library.
+- [Data School](https://www.youtube.com/@dataschool/videos): Practical data science tutorials and tips, perfect for beginners and those looking to refine their skills. Especially great for learning how to work with the *pandas* library.
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/videos): Comprehensive tutorials on programming and data science, ideal for self-learners and career switchers.
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest): Simplifies complex statistical concepts and machine learning algorithms through engaging and easy-to-understand videos.
 - [Data Professor](https://www.youtube.com/@DataProfessor/videos): Educational videos on data science, machine learning, and bioinformatics, aimed at helping you become a data professional.
@@ -36,7 +36,7 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 - [Boris Meinardus](https://www.youtube.com/@borismeinardus): Tutorials and insights on AI and machine learning with a focus on practical applications.
 
 ### Data & Analytics
-- [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/videos): Real-world data analytics tutorials and career advice to help you break into the field.
+- [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/videos): Real-world data analytics tutorials, especially useful for learning SQL.
 - [Luke Barousse](https://www.youtube.com/@LukeBarousse): Data science projects and tutorials, focusing on practical applications and real-world use cases.
 
 ## Blogs
