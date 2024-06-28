@@ -1,4 +1,4 @@
-# Aspiring Data Scientist Handbook
+# Aspiring Data Scientist Handbook 2024
 
 **Curated resources (Free & Paid) to help aspiring data scientists learn, grow, and break into the field of data science.** *More information about this project can be found [here](#about)*
 
