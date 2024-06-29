@@ -106,7 +106,7 @@ Data Scientists who share valuable insights and tutorials
 - [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Sr. Data Scientist and Career Coach
 - [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Content creator doing Data Science @ Google
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data Scientist (ex-Meta, ex-Amazon) and interview coach.
-- [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Data Science (ex-hiring Manager), and career coach. 
+- [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Data Scientist (ex-hiring Manager), and career coach. 
 - [Karun Tankachan](https://www.linkedin.com/in/karunt/): Senior Data Scientist @ Walmart and mentor.
 
 # About
