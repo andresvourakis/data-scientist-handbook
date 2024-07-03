@@ -53,12 +53,15 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 ## Podcasts
 - [The TWIML AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7): In-depth interviews with AI and machine learning experts, covering cutting-edge topics and industry trends.
 - [Data Skeptic](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4?si=8ecaa568925c4e2f): A podcast featuring interviews and discussions on data science, machine learning, and artificial intelligence.
+- [Data Topics](https://open.spotify.com/show/5Haq6XWLIUzBv3whiIoJwe): Go-to spot for relaxed discussions around tech, news, data, and society.
+- [The Data Coffee Break Podcast](https://open.spotify.com/show/4ou14xvjjdNaNDdrRythIq?si=3cb4eff3784044bc): From technical discussions to tangible impacts made by data, this podcast guides you in your journey to thrive in the field. 
 
 ## Books
 - [Practical Statistics for Data Scientists](https://amzn.to/49D9o3Q) :heavy_dollar_sign:: A comprehensive guide to statistical methods and their application in data science.
 - [Python Data Science Handbook](https://a.co/d/02kfOrnv) :heavy_dollar_sign:: Essential tools and techniques for data science using Python.
 - [Machine Learning Simplified](https://themlsbook.com/) :heavy_dollar_sign:: A clear and concise guide to understanding machine learning concepts and applications.
 - [Storytelling with Data](https://a.co/d/0htJ53bs) :heavy_dollar_sign:: A guide to creating impactful data visualizations and telling compelling data-driven stories.
+- [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/) :heavy_dollar_sign:: Master the math needed to excel in data science, machine learning, and statistics.
 
 # 💼 Breaking into the Job Market
 
@@ -103,6 +106,13 @@ Find great people to collaborate and exchange ideas
 
 ## Content Creators
 Data Scientists who share valuable insights and tutorials
+
+### All Around
+- [Carly Taylor](https://www.linkedin.com/in/carly-taylor-data/): Machine Learning @ Call of Duty and rebel Data Scientist
+- [Charles Givre](https://www.linkedin.com/in/cgivre/): Experienced cyber security data scientist and data engineer
+- [Eric Vyacheslav](https://www.linkedin.com/in/eric-vyacheslav-156273169/): AI/ML Engineer, ex-Google, and MIT Aalumni
+
+### Career guidance
 - [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Sr. Data Scientist and Career Coach
 - [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Content creator doing Data Science @ Google
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data Scientist (ex-Meta, ex-Amazon) and interview coach.
