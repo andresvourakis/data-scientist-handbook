@@ -47,6 +47,7 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 
 ## Newsletters
 - [TLDR AI](https://tldr.tech/ai): A daily newsletter that covers the latest developments in AI, providing concise and insightful updates.
+- [To Be a Data Scientist](https://tobeadatascientist.substack.com/): A weekly newsletter exploring the journey to becoming a data scientist and providing practical insights to break into the field and stay relevant!
 - [Data Elixir](https://dataelixir.com/): A weekly newsletter that curates the best data science news, resources, and tutorials from around the web.
 - [Data Science Weekly](https://datascienceweekly.substack.com/): A newsletter that provides a weekly roundup of data science news, articles, and tutorials.
 
