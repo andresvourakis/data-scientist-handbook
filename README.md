@@ -101,10 +101,10 @@ Getting one-on-one mentorship and general career guidance
 
 ## Communities
 Find great people to collaborate and exchange ideas
-- [Break Into Data (Discord)](https://discord.gg/Uyv7JZ3b): A vibrant Discord community for aspiring and established data professional data to network and share knowledge.
+- [Break Into Data (Discord)](https://discord.gg/ENhDfmzMzA): A community for aspiring and established data professionals to network, share knowledge, and empower each other to reach their goals.
 - [Data Science (Reddit)](https://www.reddit.com/r/datascience/): A subreddit for discussing all things data science, including career advice, project ideas, and industry news.
 - [Learn Data Science (Reddit)](https://www.reddit.com/r/learndatascience/): A supportive community for those learning data science, offering resources, project ideas, and peer support.
-- [DataTalks.club](Datatalks.Club): Global Slack community of data enthusiasts.
+- [DataTalks.club (Slack)](https://datatalks.club/slack.html): Global community of data enthusiasts.
 
 ## Content Creators
 Data Scientists who share valuable insights and tutorials
