@@ -20,6 +20,7 @@
 3. [🤝 Connecting with Others](#-connecting-with-others)
    - [Communities](#communities)
    - [Content Creators](#content-creators)
+   - [Conferences](#conferences)
 
 # 📚 Learning Data Science
 
