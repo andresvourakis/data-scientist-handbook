@@ -120,6 +120,29 @@ Data Scientists who share valuable insights and tutorials
 - [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Data Scientist (ex-hiring Manager), and career coach. 
 - [Karun Tankachan](https://www.linkedin.com/in/karunt/): Senior Data Scientist @ Walmart and mentor.
 
+## Conferences
+
+### United States
+
+| Conference Name                                   | Date                | Location             | Details                                                                                                     | Cost                            | Official Website                                      |
+|---------------------------------------------------|---------------------|----------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------|-------------------------------------------------------|
+| Open Data Science Conference (ODSC East)          | April 23-25, 2024   | Boston, MA           | Various tracks including ML, NLP, MLOps, and Data Visualization. 250+ speakers.                              | $559 - $1670                    | [ODSC East](https://odsc.com)                         |
+| The Data Science Conference                       | May 23-24, 2024     | Chicago, IL          | Sponsor-free, vendor-free, and recruiter-free. Focuses on genuine learning and networking.                   | $1,500                          | [The Data Science Conference](https://www.thedatascienceconference.com) |
+| Data + AI Summit                                  | June 10-13, 2024    | San Francisco, CA    | Hosted by Databricks. Includes discussions, networking, and hands-on training.                               | $1595 (in-person), Free (virtual) | [Data + AI Summit](https://www.databricks.com/dataaisummit) |
+| AWS re:Invent                                     | December 2-6, 2024  | Las Vegas, NV        | Focuses on AWS technologies, featuring keynotes, technical sessions, and hands-on labs.                      | Varies                          | [AWS re:Invent](https://reinvent.awsevents.com)       |
+| MachineCon 2024                                   | July 26, 2024       | New York, NY         | Focuses on AI technologies and analytics solutions. Features top industry leaders.                           | Varies                          | [MachineCon](https://machinecon.aimresearch.co)       |
+
+### Europe
+
+| Conference Name                                   | Date                | Location               | Details                                                                                                     | Cost                            | Official Website                                      |
+|---------------------------------------------------|---------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------|-------------------------------------------------------|
+| World Data Summit                                 | May 15-17, 2024     | Amsterdam, Netherlands | Covers data governance, literacy, machine learning, with speakers from major companies.                     | €1,695                          | [World Data Summit](https://worlddatasummit.com)      |
+| World Conference on Data Science & Statistics     | June 17-19, 2024    | Amsterdam, Netherlands | Focuses on data science and statistics with a theme on AI and ChatGPT.                                       | $499-$899                       | [Data Science Week](https://datascience.thepeopleevents.com) |
+| Big Data Conference Europe                        | November 18-21, 2024| Vilnius, Lithuania     | Focuses on big data, analytics, ML, and AI. Includes keynote sessions and workshops.                        | Varies                          | [Big Data Conference Europe](https://bigdataconference.eu) |
+| ODSC Europe                                       | September 5, 2024   | London, UK             | Similar to ODSC East, covers various data science topics with training and networking.                       | Varies                          | [ODSC Europe](https://odsc.com/europe)                |
+| World Artificial Intelligence Cannes Festival     | February 8-10, 2024 | Cannes, France         | Focuses on AI, ML, and data science. Features AI technologies and global innovators.                         | Varies                          | [WAICF](https://www.worldaicannes.com)                |
+
+
 # About
 Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point of this repository is to help you avoid getting overwhelmed by too many choices. This way you can focus less time researching and more time learning.
 
