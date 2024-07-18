@@ -113,7 +113,7 @@ Data Scientists who share valuable insights and tutorials
 ### All Around
 - [Carly Taylor](https://www.linkedin.com/in/carly-taylor-data/): Machine Learning @ Call of Duty and rebel Data Scientist
 - [Charles Givre](https://www.linkedin.com/in/cgivre/): Experienced cyber security data scientist and data engineer
-- [Eric Vyacheslav](https://www.linkedin.com/in/eric-vyacheslav-156273169/): AI/ML Engineer, ex-Google, and MIT Aalumni
+- [Eric Vyacheslav](https://www.linkedin.com/in/eric-vyacheslav-156273169/): AI/ML Engineer, ex-Google, and MIT Alumni
 
 ### Career guidance
 - [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Sr. Data Scientist and Career Coach
