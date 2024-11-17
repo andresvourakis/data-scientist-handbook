@@ -1,4 +1,4 @@
-# Data Scientist Handbook 2024
+# Data Scientist Handbook 2025
 
 **Curated resources (Free & Paid) to help data scientists learn, grow, and break into the field of data science.** 
 
