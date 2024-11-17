@@ -11,6 +11,7 @@
    - [Newsletters](#newsletters)
    - [Podcasts](#podcasts)
    - [Books](#books)
+   - [Github Repos](#github-repos)
 2. [💼 Breaking into the Job Market](#-breaking-into-the-job-market)
    - [The Technical Interview](#the-technical-interview)
    - [Building a Portfolio](#building-a-portfolio)
@@ -65,6 +66,10 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 - [Machine Learning Simplified](https://themlsbook.com/) :heavy_dollar_sign:: A clear and concise guide to understanding machine learning concepts and applications.
 - [Storytelling with Data](https://a.co/d/0htJ53bs) :heavy_dollar_sign:: A guide to creating impactful data visualizations and telling compelling data-driven stories.
 - [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/) :heavy_dollar_sign:: Master the math needed to excel in data science, machine learning, and statistics.
+
+## GitHub Repos
+- [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): A comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
+- [Free 6-Week SQL Roadmap for Data Science & Data Analytics](https://github.com/andresvourakis/free-6-week-sql-roadmap-data-science): Roadmap to guide you through mastering SQL for Data Science in just 6 weeks.
 
 # 💼 Breaking into the Job Market
 
@@ -144,7 +149,6 @@ Data Scientists who share valuable insights and tutorials
 | Big Data Conference Europe                        | TBD                 | Vilnius, Lithuania     | Focuses on big data, analytics, ML, and AI. Includes keynote sessions and workshops.                        | TBD                             | [Big Data Conference Europe](https://bigdataconference.eu/) |
 | ODSC Europe                                       | TBD                 | London, UK             | Similar to ODSC East, covers various data science topics with training and networking.                       | TBD                             | [ODSC Europe](https://odsc.com/europe/)                |
 | World Artificial Intelligence Cannes Festival     | February 13-15, 2025| Cannes, France         | Focuses on AI, ML, and data science. Features AI technologies and global innovators.                         | TBD                             | [WAICF](https://www.worldaicannes.com/)                |
-
 
 # About
 Even though there are hundreds of resources out there (too many to keep track of), I will try to limit them to a maximum of 5 per category to ensure you get the most valuable and relevant resources out there, plus, the whole point of this repository is to help you avoid getting overwhelmed by too many choices. This way you can focus less time researching and more time learning.
