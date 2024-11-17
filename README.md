@@ -112,19 +112,20 @@ Data Scientists who share valuable insights and tutorials
 
 ### All Around
 - [Carly Taylor](https://www.linkedin.com/in/carly-taylor-data/): Machine Learning @ Call of Duty and rebel Data Scientist
-- [Charles Givre](https://www.linkedin.com/in/cgivre/): Experienced cyber security data scientist and data engineer
+- [Aishwarya Naresh Reganti](https://www.linkedin.com/in/areganti/): Applied Science Tech Lead at the AWS Generative AI Innovation Center (GenAIIC)
 - [Eric Vyacheslav](https://www.linkedin.com/in/eric-vyacheslav-156273169/): AI/ML Engineer, ex-Google, and MIT Alumni
+- [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Content creator doing Data Science @ Google
 
 ### Career guidance
-- [Brad Yarbro](https://www.linkedin.com/in/brad-yarbro/): Sr. Data Scientist and Career Coach
-- [Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/): Content creator doing Data Science @ Google
+- [Sravya Madipalli](https://www.linkedin.com/in/sravyamadipalli/): Senior Manager, Data Science (Ex-Microsoft)
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/): Data Scientist (ex-Meta, ex-Amazon) and interview coach.
 - [Andres Vourakis](https://www.linkedin.com/in/andresvourakis/): Data Scientist (ex-hiring Manager), and career coach. 
 - [Karun Tankachan](https://www.linkedin.com/in/karunt/): Senior Data Scientist @ Walmart and mentor.
+- [Mandy Liu](https://www.linkedin.com/in/mandy-liu-lead-data-scientist-ex-meta-2551724a/) Lead Data Scientist (ex-Meta), consultant and coach.
 
 ## Conferences
 
-### USA
+### United States
 
 | Conference Name                                   | Date                | Location             | Details                                                                                                     | Cost                            | Official Website                                      |
 |---------------------------------------------------|---------------------|----------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------|-------------------------------------------------------|
