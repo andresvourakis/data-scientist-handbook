@@ -1,6 +1,6 @@
 # Data Scientist Handbook 2025
 
-**Curated resources (Free & Paid) to help data scientists learn, grow, and break into the field of data science.** 
+**Curated Data Science resources (Free & Paid) to help data scientists learn, grow, and break into the field** 
 
 **Note:** For your convenience, if you see this symbol :heavy_dollar_sign: next to a resource, it means it is a paid resource. More information about this project can be found [here](#about)
 
