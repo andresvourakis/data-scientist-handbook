@@ -89,7 +89,8 @@ Resources to help you build a competitive Data Science portfolio
 - [Data Science Project Ideas (2025 Edition)](https://topmate.io/andres_vourakis/995993) :heavy_dollar_sign:: A curated collection of Data Science project ideas specifically designed to solve common business problems and catch the eye of hiring managers.
 
 ## Crafting a Resume
-- [Enhance CV](https://enhancv.com/) :heavy_dollar_sign:: A tool that helps you build standout resumes that get results, with templates and guides tailored for data science roles.
+- [Applio](https://applio.ai/) :heavy_dollar_sign:: A tool built specifically to help data scientists align their applications, tailor their resumes, and prepare with confidence.
+- [Enhance CV](https://enhancv.com/) :heavy_dollar_sign:: A tool that helps you create modern looking resumes with templates and guides.
 - [Resume ATS Optimization](https://resume.io/blog/how-to-build-a-bulletproof-ATS-friendly-resume?cq_plac=&cq_net=x&cq_pos=&cq_med=&cq_plt=gp&ga_utm_source=google&utm_medium=ppc&utm_campaign=18329810119&utm_adgroup=&utm_custom=Resume.io|SE|Pmax|NB&utm_content=&utm_term=&matchtype=&device=c&location=9196267&gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv_vwpE-how5eTMqlASshTm1FpU3mXUbupsn-_cwfiFG4XW06RrgWaBoCboQQAvD_BwE): A guide on how to build an ATS friendly resume
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184) :heavy_dollar_sign:: Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
 
