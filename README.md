@@ -75,9 +75,9 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 
 ## The Technical Interview
 Practicing for the coding part of the technical interview
-- [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions): A collection of SQL interview questions to help you practice and improve your database querying skills.
-- [Leet Code (Python/SQL)](https://leetcode.com/): A popular platform for coding practice and interview preparation, featuring a wide range of problems in Python and SQL.
+- [Dataford](https://dataford.io/): All-in-one platform for your interview prep. Level-up your skills with Real Interview Questions from top companies, hands-on courses, and real case studies. Use code `ANDRES40` to get 40% off yearly subscriptions.
 - [Interview Master (SQL)](https://sql-interview-master-bohemestudios.vercel.app/?ref=andres): Practice with realistic problems from top tech companies. This tool combines realistic practice, AI-powered feedback, and structured learning to prepare you for any technical interview.
+- [Data Lemur (SQL)](https://datalemur.com/sql-interview-questions): A collection of SQL interview questions to help you practice and improve your database querying skills.
 - [Ace the Data Science Interview](https://a.co/d/09zr2b3f) :heavy_dollar_sign:: A comprehensive book with real interview questions and detailed answers to help you succeed in your data science interviews.
 - [Data Science Mock Interviews](https://topmate.io/andres_vourakis/826111) :heavy_dollar_sign:: Mock interview sessions with an experienced Data Scientist and ex-hiring manager to help you prepare for your next interview. Use code `HANDBOOK20` for a discount.
 
