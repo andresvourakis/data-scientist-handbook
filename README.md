@@ -104,7 +104,7 @@ Resources to help you build a competitive Data Science portfolio
 Getting one-on-one mentorship and general career guidance
 - [Andres Vourakis](https://topmate.io/andres_vourakis) :heavy_dollar_sign:: Personalized mentorship and career guidance from an experienced data scientist and ex-hiring manager.
 - [Data Science Hire Ready](https://course.andresvourakis.com/ds-hire-ready) :heavy_dollar_sign:: An accelerator program to help you gain a competitive advantage during your job search and land a data job quickly. Use coupon code `student10` to get a student discount.
-- [Future Proof Data Science](https://futureproofds.com) :heavy_dollar_sign:: A 5-week AI Workflows Bootcamp that teaches data professionals how to master automation and build AI-powered workflows, keeping their skills future-proof while accelerating career growth.
+- [Future Proof Data Science: AI Workflows Bootcamp](https://futureproofds.com) :heavy_dollar_sign:: A cohort-based program that helps data scientists master AI workflows and automation to 10× productivity, stay relevant, and accelerate their careers.
 
 # 🤝 Connecting with Others
 
