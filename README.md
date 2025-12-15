@@ -68,6 +68,7 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 - [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/) :heavy_dollar_sign:: Master the math needed to excel in data science, machine learning, and statistics.
 
 ## GitHub Repos
+- [AI Data Scientist Handbook 2026](https://github.com/andresvourakis/ai-data-scientist-handbook): A curated list of AI-native tools, workflows, and resources to help data scientists accelerate their careers in the age of AI.
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): A comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 - [Free 6-Week SQL Roadmap for Data Science & Data Analytics](https://github.com/andresvourakis/free-6-week-sql-roadmap-data-science): Roadmap to guide you through mastering SQL for Data Science in just 6 weeks.
 
