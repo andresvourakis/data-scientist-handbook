@@ -92,6 +92,7 @@ Resources to help you build a competitive Data Science portfolio
 ## Crafting a Resume
 - [Applio](https://applio.ai/) :heavy_dollar_sign:: A tool built specifically to help data scientists align their applications, tailor their resumes, and prepare with confidence. Use coupon code `HANDBOOK2025` to get 50% off.
 - [Enhance CV](https://enhancv.com/) :heavy_dollar_sign:: A tool that helps you create modern-looking resumes with templates and guides.
+- [ResumeAI](https://withresumeai.com/) : Free ATS resume checker + AI resume builder. Also [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) (738 employers, portal-verified ATS share).
 - [Free ATS-friendly Resumes Templates](https://applio.ai/resume-templates): ATS-friendly resume templates for data scientists, analysts, and AI engineers. Tailored to your background so your top skills stand out.
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184) :heavy_dollar_sign:: Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
 
