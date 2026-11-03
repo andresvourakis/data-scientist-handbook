@@ -49,7 +49,6 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 - [freeCodeCamp.org](https://www.freecodecamp.org/news/tag/data-science/): Articles and tutorials covering a wide range of data science concepts, from basic to advanced.
 
 ## Newsletters
-- [Neural Pulse](https://neuralpulse.io/subscribe): A 5-minute, human-curated newsletter delivering the best in AI, ML, and data science (twice a week).
 - [Future Proof Data Science](https://read.futureproofds.com/): A weekly newsletter for data scientists who want to stay relevant and grow their careers in the age of AI (and beyond).
 - [Data Elixir](https://dataelixir.com/): A weekly newsletter that curates the best data science news, resources, and tutorials from around the web.
 - [Data Science Weekly](https://datascienceweekly.substack.com/): A newsletter that provides a weekly roundup of data science news, articles, and tutorials.
