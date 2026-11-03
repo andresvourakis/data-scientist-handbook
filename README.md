@@ -45,6 +45,7 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 - [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/videos): Real-world data analytics tutorials, especially useful for learning SQL.
 - [Luke Barousse](https://www.youtube.com/@LukeBarousse): Data science projects and tutorials, focusing on practical applications and real-world use cases.
 - [Thu Vu Data Analytics](https://www.youtube.com/@Thuvu5/videos): Educational videos on data analytics, machine learning tutorials, career advice, and insights to help viewers advance in the data analytics field.
+- [Karina Data Scientist](https://www.youtube.com/@karinadatascientist): Data analytics and data science career videos, from SQL, Python data cleaning and data storytelling to building a portfolio and resume that gets you hired.
 
 ## Blogs
 - [Towards Data Science](https://towardsdatascience.com/): A Medium publication that publishes well-written, informative articles on various data science topics.
