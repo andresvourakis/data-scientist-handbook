@@ -39,6 +39,7 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 - [Sentdex](https://www.youtube.com/@sentdex): In-depth Python programming and machine learning tutorials, suitable for all skill levels.
 - [Boris Meinardus](https://www.youtube.com/@borismeinardus): Tutorials and insights on AI and machine learning with a focus on practical applications.
 - [Andres Vourakis](https://www.youtube.com/@andresvourakis): Practical tutorials on AI workflows, ML in production, and the engineering skills data scientists need to stay relevant as AI reshapes the field.
+- [Egor Howell](https://www.youtube.com/@egorhowell): Practical advice on landing data science, ML and AI jobs, from job hunting to interviews, drawn from his own experience.
 
 ### Data & Analytics
 - [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/videos): Real-world data analytics tutorials, especially useful for learning SQL.
