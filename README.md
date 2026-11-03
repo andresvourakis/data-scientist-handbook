@@ -98,6 +98,7 @@ Resources to help you build a competitive Data Science portfolio
 - [Enhance CV](https://enhancv.com/) :heavy_dollar_sign:: A tool that helps you create modern-looking resumes with templates and guides.
 - [Free ATS-friendly Resumes Templates](https://applio.ai/resume-templates): ATS-friendly resume templates for data scientists, analysts, and AI engineers. Tailored to your background so your top skills stand out.
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184) :heavy_dollar_sign:: Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
+- [JobEmerge](https://www.jobemerge.work) :heavy_dollar_sign:: AI career tool with a job-fit test, a 19-language resume translator, and a Markdown resume editor.
 
 ## Job Market Insights
 - [AI in Data Science Job Market Dashboard](https://futureproofds.com/job-market): Weekly-refreshed dashboard of thousands of real Data Scientist job postings, showing how AI is reshaping the role: what share of roles require AI skills, which seniority levels are most affected, and the salary premium for AI skills.
