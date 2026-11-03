@@ -97,7 +97,8 @@ Resources to help you build a competitive Data Science portfolio
 - [1:1 Resume/Portfolio Review](https://topmate.io/andres_vourakis/826184) :heavy_dollar_sign:: Personalized feedback on your resume and portfolio to help you land your dream job. Use code `HANDBOOK20` for a discount.
 
 ## Job Market Insights
-- [The Data Scientist Job Market in 2024](https://365datascience.com/career-advice/data-scientist-job-market/): Article with insights on the data job market in 2024 based on research of 1,000 job postings.
+- [AI in Data Science Job Market Dashboard](https://futureproofds.com/job-market): Weekly-refreshed dashboard of thousands of real Data Scientist job postings, showing how AI is reshaping the role: what share of roles require AI skills, which seniority levels are most affected, and the salary premium for AI skills.
+- [ML in Production Job Market Dashboard](https://ai-in-ds.streamlit.app/ml_in_production): How often Data Scientist job postings require production skills (deploying, serving, monitoring, CI/CD) and which cloud platforms companies ask for.
 - [Data Job Market Dashboard](https://datajobmarket.streamlit.app/): Regularly updated dashboard of the data job market, providing insights into in-demand skills for Data Scientist and Data Analyst roles.
 - [Glassdoor](https://www.glassdoor.com/): Reviews, salary data, and interview experiences for companies and job roles in data science.
 
